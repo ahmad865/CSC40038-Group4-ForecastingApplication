@@ -1,0 +1,26 @@
+
+
+
+
+
+
+Prophet Model:
+
+1. Installing Libraries
+Make sure you have python installed.
+
+Use pip in Command Prompt.
+
+-pip install tkcalendar pandas prophet matplotlib
+
+
+2. Forecasting Registrations
+
+-Run the prophetapplication.py file.
+-Give New event Start date in Ul
+-Select ProphetMockTest.csv ( for any other event it need a csv file with partial data for new event even if its just 1 entry)
+
+3. Click Predict Button
+
+
+The Application will Display Predicted registrations for forecast period (from last date in partial new event data to new event start date)
